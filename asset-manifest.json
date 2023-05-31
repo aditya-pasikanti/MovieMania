@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MovieMania/static/css/main.c1b35119.css",
+    "main.js": "/MovieMania/static/js/main.ef5f608e.js",
+    "static/media/movielogo.png": "/MovieMania/static/media/movielogo.7872de91d3f1007757e9.png",
+    "index.html": "/MovieMania/index.html",
+    "main.c1b35119.css.map": "/MovieMania/static/css/main.c1b35119.css.map",
+    "main.ef5f608e.js.map": "/MovieMania/static/js/main.ef5f608e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1b35119.css",
+    "static/js/main.ef5f608e.js"
+  ]
+}
